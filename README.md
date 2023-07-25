@@ -26,3 +26,7 @@ This image should be run while mounting three directories:
   * This is an older version of the current version found in Ultralytics GitHub, with slight modifications added to work in our project
 * For the latter part of this project, we need access to the WSI files - and will not run unless you have those locally downloaded which requries hundreds of gigabytes of local storage. To do this, please contact us at jvizcar@emory.edu
 
+## ClearML
+The training of models in this repository **requires** the use of a [ClearML](clear.ml) account and credentials. After creating and logging into your ClearML account, go to settings -> workspace -> and create new credentials. Copy the text shown to a save location.
+
+Once in the Docker terminal, initiate ClearML using ```$ clearml-init``` and paste the credentials you copied.
