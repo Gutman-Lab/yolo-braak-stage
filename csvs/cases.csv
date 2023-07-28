@@ -1,0 +1,135 @@
+case,Braak_stage,ABC,age_at_death,Clinical_Dx,Other_NP_Dx_AD,Other_NP_Dx_LBD,Other_NP_Dx_Misc_1,Other_NP_Dx_Misc_2,Other_NP_Dx_Misc_3,Other_NP_Dx_Misc_4,Other_NP_Dx_TAU,Other_NP_Dx_TDP,Other_NP_Dx_Vascular,Primary_NP_Dx,race,region,sex,Thal,cohort
+A03-74,6,3,55,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-1
+A04-186,6,3,72,AD,,LBD-amygdala,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-1
+A08-101,2,0,78,control; SDH after fall,,,,,,,,,Large cerebral hemorrhage,Control,Caucasian,Hippocampus,female,0,Inference-Cohort-1
+A09-136,3,1,72,PD; AD,,,,,,,,,,LBD-neocortical,Caucasian,Hippocampus,female,1,Inference-Cohort-1
+A09-164,1,1,68,ALS; FTD,AD,,,,,,,FTLD-TDP,,ALS,Black / African American,Hippocampus,female,4,Inference-Cohort-1
+A10-179,6,3,66,AD,,,,,,,,,,AD,Black / African American,Hippocampus,female,5,Inference-Cohort-1
+A10-18,5,3,52,FTD,,LBD-amygdala,,,,,,,,AD,Caucasian,Amygdala,male,5,Inference-Cohort-1
+A10-33,6,3,62,FTD,,LBD-amygdala,,,,,,"TDP-43+ neurons-Hp,Am,Ento",,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-1
+A10-38,1,1,62,CBD,,LBD-amygdala,,,,,,,,FTLD-TDP (GRN mutation),Caucasian,Hippocampus,male,2,Inference-Cohort-1
+A10-64,5,3,85,AD,,LBD-neocortical,Sclerosis-Hp,,,,,,,AD,Caucasian,Hippocampus,male,4,Inference-Cohort-1
+A10-88,0,0,49,ALS,,,,,,,,,,ALS,Caucasian,Hippocampus,female,0,Inference-Cohort-1
+A11-125,1-2,1,76,ALS,AD-possible,,,,,,,FTLD-TDP,,ALS,Caucasian,Hippocampus,female,5,Inference-Cohort-1
+A11-60,1,1,55,ALS; stem cell transplant,,,(MCI),,,,,,,ALS (stem cell pt),Caucasian,Hippocampus,male,2,Inference-Cohort-1
+A11-70,2,1,64,ALS,AD-possible,AD-possible,,,,,Tau pathology-mild,FTLD-TDP,,ALS,Caucasian,Hippocampus,male,2,Inference-Cohort-1
+A12-158,4,1,57,ALS; FTD,,,,,,,,FTLD-TDP,,ALS (C9 expansion),Black / African American,Hippocampus,female,2,Inference-Cohort-1
+A12-32,2,1,59,ALS,AD-possible,,,,,,,,,ALS,Caucasian,Hippocampus,female,3,Inference-Cohort-1
+A13-11,6,3,83,ASL; FTD,,LBD-neocortical,,,,,,"ALS; TDP-43 incl-Hp,Am,Ent",,AD,Caucasian,Hippocampus,male,5,Inference-Cohort-1
+A14-22,2,1,67,ALS,,,,,,,,FTLD-TDP,,ALS (C9 expansion),Caucasian,Hippocampus,male,2,Inference-Cohort-1
+A15-101,3,0,61,leukoencephalopathy,,,Severe CAA,Braak III,,,,,,Hereditary Diffuse Leukoencephalopathy with Axonal Spheroids,Caucasian,Amygdala,female,0,Inference-Cohort-1
+A15-106,2,1,61,diabetes; hx hip replacement,,,Braak II,,,,,,,Control,Black / African American,Left hippocampus,female,1,Inference-Cohort-1
+A15-132,3,0,75,PDD,,,Braak III,,,,,,,LBD-neocortical,Caucasian,Amygdala,male,0,Inference-Cohort-1
+A15-140,6,3,58,AD,,LBD-amygdala,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-1
+A15-65,2,1,64,ALS,AD-possible,,,,,,,,,ALS (C9 expansion),Caucasian,Hippocampus,female,2,Inference-Cohort-1
+A15-92,6,3,87,AD,,,CAA-severe,,,,,TDP-43 incl-Am,Arteriosclerosis-severe,AD,Caucasian,Amygdala,male,5,Inference-Cohort-1
+A15-97,4,2,80,control,AD-possible,,Braak IV,,,,,,,Control/aymptomatic AD,Caucasian,Amygdala,male,4,Inference-Cohort-1
+A16-11,5,3,66,DLB,AD,,,,,,,TDP-43 incl-Am,,LBD-neocortical,Caucasian,Temporal cortex,female,5,Inference-Cohort-1
+A16-110,6,3,77,AD,,,,,,,,"TDP-43 incl-Hp,Am,Ent,T",,AD,Caucasian,Amygdala,female,5,Inference-Cohort-1
+A16-138,2,1,69,PDD,AD-possible,,Braak II,,,,,,,LBD-neocortical,Caucasian,Occipital cortex,male,3,Inference-Cohort-1
+A16-19,6,3,88,AD; B12 deficiency,,LBD-limbic,,,,,,,Arteriosclerosis-severe,AD,Caucasian,Left hippocampus,female,5,Inference-Cohort-1
+A16-21,6,3,62,FTD vs. AD,,,,,,,,,,AD,Caucasian,Temporal cortex,male,5,Inference-Cohort-1
+A16-45,1,1,70,control,,,Braak I,,,,,,,Control,Black / African American,Left hippocampus,male,2,Inference-Cohort-1
+A16-66,6,3,69,CBD; TBI,,,,,,,,,,AD,Caucasian,Temporal cortex,male,5,Inference-Cohort-1
+A17-05,5,3,78,AD; DLB,,LBD-neocortical,,,,,,,,AD,Caucasian,Temporal cortex,male,5,Inference-Cohort-1
+A17-12,1-2,0,72,ALS,,,,,,,,,,ALS,Caucasian,Occipital cortex,male,0,Inference-Cohort-1
+A17-138,6,3,71,AD; possible CTE,,,"Sclerosis-Hp,ento",,,,,"TDP-43 incl-Hp,Am,Ent,T",,AD,Black / African American,Hippocampus,male,5,Inference-Cohort-1
+A17-143,6,3,83,AD,,,,,,,ARTAG,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-1
+A17-147,5,3,87,depression;bilateral SDH; AD?,,LBD-limbic,,,,,,,,AD,Caucasian,Hippocampus,male,5,Inference-Cohort-1
+A17-21,6,3,67,FTD; PSP,,LBD-limbic,,,,,,,,AD,Caucasian,Temporal cortex,female,5,Inference-Cohort-1
+A17-32,4,2,86,AD; vascular dementia,,,,,,,,"TDP-43 incl-Hp,Am,Ent",,AD,Black / African American,Temporal cortex,male,5,Inference-Cohort-1
+A17-36,6,3,71,AD,,LBD-neocortical,,,,,,TDP-43 incl-Am,,AD,Caucasian,Temporal cortex,male,5,Inference-Cohort-1
+A17-40,3,2,72,AD; DLB,AD,,,,,,ARTAG,TDP-43 incl-Am,,LBD-neocortical,Caucasian,Hippocampus,male,4,Inference-Cohort-1
+A17-47,6,3,82,AD; depression-contributing,,,CAA-severe,,,,,,,AD,Black / African American,Hippocampus,male,5,Inference-Cohort-1
+A17-56,6,3,59,"AD, FTD possible; later listed as DLB",,,,,,,,,,AD,Caucasian,Left hippocampus,female,5,Inference-Cohort-1
+A17-57,6,3,76,AD,,LBD-limbic,,,,,ARTAG,,,AD,Caucasian,Hippocampus,male,5,Inference-Cohort-1
+A17-71,6,3,54,early onset AD (no known family hx),,,,,,,,,,AD,Black / African American,Hippocampus,male,5,Inference-Cohort-1
+A18-07,6,3,80,AD,,,,,,,,,,AD,Caucasian,Hippocampus,male,5,Inference-Cohort-1
+A18-38,6,3,77,AD vs. DLB,,LBD-neocortical,"Sclerosis-Hp,Am,Ento",,,,,TDP-43 incl-diffuse,,AD,Black / African American,Left hippocampus,male,5,Inference-Cohort-1
+A18-47,5,3,64,DLB,,,Sclerosis-Hp,,,,ARTAG,TDP-43 incl-diffuse,,AD,Caucasian,Left hippocampus,male,4,Inference-Cohort-1
+A18-61,6,3,71, AD (familial EOAD),,LBD-amygdala,Sclerosis-Ento,,,,ARTAG,"TDP-43 incl-Hp,Am,Ent",,AD,Caucasian,Hippocampus,male,5,Inference-Cohort-1
+A20-11,4,0,80,MCI - AD and NPH underlying,,LBD-limbic,,,,,AGD-stage III,,,MCI,Caucasian,Amygdala,female,0,Inference-Cohort-1
+A20-13,5,3,82,DLB,AD,,,,,,ARTAG,,,LBD-neocortical,Caucasian,Hippocampus,male,4,Inference-Cohort-1
+A20-17,3,2,82,prostate cancer; peripheral vascular disease,,,,,,,,,,AD-possible,Caucasian,Occipital cortex,male,4,Inference-Cohort-1
+E19-35,6,3,59,AD,,,,,,,,,,AD,Caucasian,Temporal cortex,male,5,Inference-Cohort-2
+E19-142,6,3,82,AD,,,,,,,,,,AD,Caucasian,Occipital cortex,male,5,Inference-Cohort-2
+E19-70,3,2,64,ALS,,,,,,,,,,ALS (C9 EXPANSION),Caucasian,Left hippocampus,female,3,Inference-Cohort-2
+E19-132,6,3,85,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,4,Inference-Cohort-2
+E19-139,1,0,71,FTD,,,,,,,,,,FTLD-TDP,Caucasian,Temporal cortex,female,0,Inference-Cohort-2
+E19-131,6,3,79,AD,,,,,,,,,,AD,Caucasian,Amygdala,male,5,Inference-Cohort-2
+E19-141,6,3,56,FTD,,,,,,,,,,AD,Caucasian,Occipital cortex,male,5,Inference-Cohort-2
+E08-145,0,0,45,METASTATIC COLON CANCER,,,,,,,,,,CONTROL,Caucasian,Hippocampus,female,0,Inference-Cohort-2
+E18-92,3,2,84,"PD, PSP",,,,,,,,,,LBD-NEOCORTICAL,Caucasian,Hippocampus,male,4,Inference-Cohort-2
+E18-45,4,1,79,MCI,,,,,,,,,,MCI,Caucasian,Left hippocampus,male,1,Inference-Cohort-2
+E18-27,5,3,90+,AD,,,,,,,,,,AD,Black / African American,Hippocampus,female,5,Inference-Cohort-2
+E18-49,6,3,81,AD,,,,,,,,,,AD (FAMILY 1001),Caucasian,Left hippocampus,female,5,Inference-Cohort-2
+E18-37,4,2,57,ALS,,,,,,,,,,ALS (C9 EXPANSION),Caucasian,Left hippocampus,female,3,Inference-Cohort-2
+E18-70,6,3,75,AD (FAMILIAL EOAD),,,,,,,,,,AD,Caucasian,Amygdala,female,4,Inference-Cohort-2
+E09-91,2,1,67,FTD; CBD VS. PRION DISEASE,,,,,,,,,,FTLD-TDP,Caucasian,Hippocampus,male,1,Inference-Cohort-2
+E10-129,0,1,46,ALS,,,,,,,,,,ALS,Caucasian,Hippocampus,female,2,Inference-Cohort-2
+E10-56,5,3,82,AD,,,,,,,,,,AD,Black / African American,Hippocampus,female,4,Inference-Cohort-2
+E10-63,6,3,81,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-2
+E10-48,4,2,90+,PROBABLE TAUOPATHY - CBD OR PSP,,,,,,,,,,FTLD-TAU (PSP),Caucasian,Hippocampus,female,4,Inference-Cohort-2
+E10-150,2,1,56,ALS,,,,,,,,,,ALS,Caucasian,Hippocampus,female,2,Inference-Cohort-2
+E10-137,6,3,89,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-2
+E10-110,6,3,47,AD,,,,,,,,,,AD (PS1 M146V)),Black / African American,Hippocampus,male,5,Inference-Cohort-2
+E11-20,1,0,48,ALS,,,,,,,,,,ALS,unknown,Hippocampus,male,0,Inference-Cohort-2
+E11-59,1,0,62,ALS,,,,,,,,,,ALS,Caucasian,Hippocampus,female,0,Inference-Cohort-2
+E20-18,1,0,72,CONTROL; BILIARY ADENOCARCINOMA,,,,,,,,,,CONTROL,Caucasian,Occipital cortex,male,0,Inference-Cohort-2
+E20-106,6,3,73,AD,,,,,,,,,,AD - ADNI,Caucasian,Occipital cortex,female,5,Inference-Cohort-2
+E20-98,6,3,90+,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-2
+E20-55,6,3,78,AD,,,,,,,,,,AD,Caucasian,Hippocampus,male,5,Inference-Cohort-2
+E20-56,6,3,90+,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-2
+E20-63,4,2,90+,CONTROL,,,,,,,,,,CONTROL/AYMPTOMATIC AD,Caucasian,Hippocampus,male,4,Inference-Cohort-2
+E20-71,3,1,63,ALS,,,,,,,,,,ALS (C9 EXPANSION),Caucasian,Left hippocampus,female,2,Inference-Cohort-2
+E20-72,3,2,74,ALS,,,,,,,,,,ALS (C9 EXPANSION),Caucasian,Occipital cortex,female,4,Inference-Cohort-2
+E20-73,3,1,59,ALS+FTD,,,,,,,,,,ALS (C9 EXPANSION),Caucasian,Left hippocampus,male,2,Inference-Cohort-2
+E20-69,0,0,31,ALS,,,,,,,,,,ALS (FUS MUTATION),unknown,Temporal cortex,female,0,Inference-Cohort-2
+E20-139,6,3,61,AD,,,,,,,,,,AD,Black / African American,Hippocampus,male,5,Inference-Cohort-2
+E20-126,6,NA,72,FTD,,,,,,,,,,FTLD-TAU (CBD),Caucasian,Left hippocampus,female,5,Inference-Cohort-2
+E20-175,6,3,58,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-2
+E20-127,4,NA,90+,DLB/PD,,,,,,,,,,FTLD-TAU (PSP),Caucasian,Hippocampus,female,4,Inference-Cohort-2
+E20-174,6,3,66,AD,,,,,,,,,,AD,unknown,Hippocampus,male,5,Inference-Cohort-2
+E20-138,6,3,87,AD,,,,,,,,,,AD,Caucasian,Left hippocampus,male,5,Inference-Cohort-2
+E21-84,0,0,52,ADULT-ONSET LEUKOENCEPHELOPATHY WITH AXONAL SPHEROIDS AND PIGMENTED GLIA,,,,,,,,,,ADULT ONSET LEUKOENCEPHALOPATHY WITH AXONAL SPHEROIDS AND PIGMENTED GLIA (ALSP; CSF1R MUTATION),Caucasian,Hippocampus,female,0,Inference-Cohort-2
+E21-110,6,3,77,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-2
+E21-115,1,0,49,ALS,,,,,,,,,,ALS (C9 EXPANSION),Caucasian,Hippocampus,female,0,Inference-Cohort-2
+E21-99,4,0,90+,NORMAL CONTROL,,,,,,,,,,CONTROL,Caucasian,Hippocampus,female,0,Inference-Cohort-2
+E21-17,6,3,81,AD,,,,,,,,,,AD,Black / African American,Temporal cortex,female,4,Inference-Cohort-2
+E21-24,3,2,78,MSA VS. PD VS. DLB,,,,,,,,,,LBD-NEOCORTICAL,Caucasian,Occipital cortex,male,4,Inference-Cohort-2
+E21-29,2,1,72,VASCULAR DEMENTIA,,,,,,,,,,VASCULAR DEMENTIA,Caucasian,Amygdala,female,5,Inference-Cohort-2
+E17-54,6,3,88,AD,,,,,,,,,,AD,Caucasian,Left hippocampus,female,5,Inference-Cohort-2
+E17-39,3,0,44,ALS; STEM CELL TRANSPLANT,,,,,,,,,,ALS (STEM CELL PATIENT),unknown,Occipital cortex,male,0,Inference-Cohort-2
+E17-150,6,3,76,AD,,,,,,,,,,AD,Caucasian,Hippocampus,male,5,Inference-Cohort-2
+E16-114,5,3,90+,AD; VASCULAR DEMENTIA,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-2
+E16-16,1,1,61,FTD (GRN MUTATION),,,,,,,,,,FTLD-TDP (GRN MUTATION),Caucasian,Temporal cortex,female,2,Inference-Cohort-2
+E16-123,5,3,83,VASCULAR DEMENTIA; AD,,,,,,,,,,AD,Caucasian,Occipital cortex,female,4,Inference-Cohort-2
+E15-125,2,0,90+,AD; B12 DEFICIENCY; PROSTATE CANCER,,,,,,,,,,"MICROINFARCTS-PUTAMEN,SUBACUTE;PR,ACUTE",Caucasian,Left hippocampus,male,0,Inference-Cohort-2
+E05-04,6,3,64,AD,,,,,,,,,,AD,Caucasian,Hippocampus,female,5,Inference-Cohort-2
+E05-132,6,3,58,AD,,,,,,,,,,AD,Caucasian,Hippocampus,male,5,Inference-Cohort-2
+E05-74,1,0,59,ISCHEMIC HEART DISEASE AND FIBROSIS,,,,,,,,,,CONTROL,Black / African American,Hippocampus,male,0,Inference-Cohort-2
+E05-81,2,0,68,"PD, DLB",,,,,,,,,,LBD-NEOCORTICAL,Caucasian,Hippocampus,male,0,Inference-Cohort-2
+E04-49,6,3,70,AD,,,,,,,,,,AD,Black / African American,Hippocampus,female,5,Inference-Cohort-2
+NA4975,5,,90+,Dementia,,,,,,,,,,AD-High,Caucasian,Temporal cortex,male,,External-Cohort
+NA4976,6,,77,Dementia,,,,,,,,,,AD-High,Caucasian,Temporal cortex,female,,External-Cohort
+NA4977,4,,87,Diagnosis deferred,,,,,,,,,,AA,Caucasian,Temporal cortex,male,,External-Cohort
+NA4985,4,,88,"Other cognitive impairment, not meeting criteria for dementia",,,,,,,,,,AD-Int,Caucasian,Temporal cortex,male,,External-Cohort
+NA4988,5,,61,,,,,,,,,,,AD-High,Hispanic,Temporal cortex,male,,External-Cohort
+NA4990,6,,88,Dementia,,,,,,,,,,AD-High,Caucasian,Temporal cortex,male,,External-Cohort
+NA4996,4,,72,Dementia,,,,,,,,,,AD-Int,Caucasian,Temporal cortex,female,,External-Cohort
+NA4997,3,,84,Dementia,,,,,,,,,,DLB,Caucasian,Temporal cortex,male,,External-Cohort
+NA4998,6,,82,Dementia,,,,,,,,,,AD-High,Hispanic,Temporal cortex,male,,External-Cohort
+NA4999,5,,83,Dementia,,,,,,,,,,AD-High,Caucasian,Temporal cortex,male,,External-Cohort
+NA5011,6,,75,Dementia,,,,,,,,,,AD-High,Caucasian,Temporal cortex,female,,External-Cohort
+NA5016,6,,88,Dementia,,,,,,,,,,AD-High,Caucasian,Temporal cortex,male,,External-Cohort
+NA5023,5,,90+,Dementia,,,,,,,,,,AD-High,Black / African American,Temporal cortex,female,,External-Cohort
+NA5028,5,,86,,,,,,,,,,,AD-High,Asian,Temporal cortex,female,,External-Cohort
+NA5032,6,,76,,,,,,,,,,,AD-High,Caucasian,Temporal cortex,female,,External-Cohort
+NA5035,6,,90+,,,,,,,,,,,AD-High,Caucasian,Temporal cortex,female,,External-Cohort
+NA5036,6,,88,,,,,,,,,,,AD-High,Caucasian,Temporal cortex,female,,External-Cohort
+NA5040,2,,90+,No cognitive imapairment,,,,,,,,,,Transitional Lew Body Disease,Caucasian,Temporal cortex,male,,External-Cohort
+NA5043,3,,90+,Dementia,,,,,,,,,,,Caucasian,Temporal cortex,male,,External-Cohort
+NA5045,3,,90+,Questionable cognitive impairment,,,,,,,,,,,Caucasian,Temporal cortex,female,,External-Cohort
+NA5049,6,,84,,,,,,,,,,,,unknown,Temporal cortex,female,,External-Cohort
+NA5054,6,,87,,,,,,,,,,,,Caucasian,Temporal cortex,female,,External-Cohort
+NA5055,6,,82,,,,,,,,,,,,Caucasian,Temporal cortex,male,,External-Cohort

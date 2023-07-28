@@ -1,0 +1,448 @@
+Case,Filename,Antibody Info,Cohort
+A03-74,OS03-163_1F_TAU.svs,Accurate,Emory-Train
+A03-74,OS03-163_1D_TAU.svs,Accurate,Emory-Train
+A03-74,OS03-163_1B_TAU.svs,Accurate,Emory-Train
+A03-74,OS03-163_1A_TAU.svs,Accurate,Emory-Train
+A04-186,E04-186_1D_TAU.svs,Accurate,Emory-Train
+A04-186,E04-186_1F_TAU.svs,Accurate,Emory-Train
+A04-186,E04-186_1B_TAU.svs,Accurate,Emory-Train
+A04-186,E04-186_1A_TAU.svs,Accurate,Emory-Train
+A08-101,E08-101_1A_TAU.svs,Accurate,Emory-Train
+A08-101,E08-101_1F_TAU.svs,Accurate,Emory-Train
+A08-101,E08-101_1D_TAU.svs,Accurate,Emory-Train
+A08-101,E08-101_1B_TAU.svs,Accurate,Emory-Train
+A09-136,E09-136_1F_TAU.svs,Accurate,Emory-Train
+A09-136,E09-136_1D_TAU.svs,Accurate,Emory-Train
+A09-136,E09-136_1A_TAU.svs,Accurate,Emory-Train
+A09-136,E09-136_1B_TAU.svs,Accurate,Emory-Train
+A09-164,E09-164_1D_TAU.svs,Accurate,Emory-Train
+A09-164,E09-164_1F_TAU.svs,Accurate,Emory-Train
+A09-164,E09-164_1B_TAU.svs,Accurate,Emory-Train
+A09-164,E09-164_1A_TAU.svs,Accurate,Emory-Train
+A10-179,E10-179_1B_tau.ndpi,AT8,Emory-Train
+A10-179,E10-179_1A_tau.ndpi,AT8,Emory-Train
+A10-179,E10-179_1F_tau.ndpi,AT8,Emory-Train
+A10-179,E10-179_1D_tau.ndpi,AT8,Emory-Train
+A10-18,1023371.svs,Accurate,Emory-Train
+A10-18,1023340.svs,Accurate,Emory-Train
+A10-18,1023360.svs,Accurate,Emory-Train
+A10-18,1023347.svs,Accurate,Emory-Train
+A10-33,1023426.svs,Accurate,Emory-Train
+A10-33,1023433.svs,Accurate,Emory-Train
+A10-33,1023457.svs,Accurate,Emory-Train
+A10-33,1023446.svs,Accurate,Emory-Train
+A10-38,E10-38_1A_TAU.ndpi,Accurate,Emory-Train
+A10-38,E10-38_1B_TAU.ndpi,Accurate,Emory-Train
+A10-38,E10-38_1F_TAU.ndpi,Accurate,Emory-Train
+A10-38,E10-38_1D_TAU.ndpi,Accurate,Emory-Train
+A10-64,1023588.svs,Accurate,Emory-Train
+A10-64,1023575.svs,AT8,Emory-Train
+A10-64,1023555.svs,Accurate,Emory-Train
+A10-64,1023546.svs,AT8,Emory-Train
+A10-88,E10-88_1F_TAU.ndpi,Accurate,Emory-Train
+A10-88,E10-88_1A_TAU.ndpi,Accurate,Emory-Train
+A10-88,E10-88_1B_TAU.ndpi,Accurate,Emory-Train
+A10-88,E10-88_1D_AT8.ndpi,AT8,Emory-Train
+A11-125,E11-125_A6_US_TAU.ndpi,AT8,Emory-Train
+A11-125,E11-125_A4_US_TAU.ndpi,AT8,Emory-Train
+A11-125,E11-125_A1_US_TAU.ndpi,AT8,Emory-Train
+A11-125,E11-125_A2_US_TAU.ndpi,AT8,Emory-Train
+A11-60,E11-60_2A_TAU.ndpi,AT8,Emory-Train
+A11-60,E11-60_2B_TAU.ndpi,AT8,Emory-Train
+A11-60,E11-60_2D_TAU.ndpi,AT8,Emory-Train
+A11-60,E11-60_2F_TAU.ndpi,AT8,Emory-Train
+A11-70,E11-70_A1_TAU.ndpi,AT8,Emory-Train
+A11-70,E11-70_A2_TAU.ndpi,AT8,Emory-Train
+A11-70,E11-70_A6_TAU.ndpi,AT8,Emory-Train
+A11-70,E11-70_A4_TAU.ndpi,AT8,Emory-Train
+A12-158,E12-158_01_TAU.svs,PHF-1,Emory-Train
+A12-158,E12-158_04_TAU.svs,PHF-1,Emory-Train
+A12-158,E12-158_06_TAU.svs,PHF-1,Emory-Train
+A12-158,E12-158_02_TAU.svs,PHF-1,Emory-Train
+A12-32,E12-32_A6_us-tau.ndpi,AT8,Emory-Train
+A12-32,E12-32_A4_us-tau.ndpi,AT8,Emory-Train
+A12-32,E12-32_A2_us-tau.ndpi,AT8,Emory-Train
+A12-32,E12-32_A1_us-tau.ndpi,AT8,Emory-Train
+A13-11,E13-11_A2_TAU.svs,PHF-1,Emory-Train
+A13-11,E13-11_01_TAU.svs,PHF-1,Emory-Train
+A13-11,E13-11_06_TAU.svs,PHF-1,Emory-Train
+A13-11,E13-11_A4_TAU.svs,PHF-1,Emory-Train
+A14-22,E14-22_01_TAU.svs,PHF-1,Emory-Train
+A14-22,E14-22_02_TAU.svs,PHF-1,Emory-Train
+A14-22,E14-22_06_TAU.svs,PHF-1,Emory-Train
+A14-22,E14-22_04_TAU.svs,PHF-1,Emory-Train
+A15-101,A15-101_4_tau.svs,PHF-1,Emory-Train
+A15-101,A15-101_6_tau.svs,PHF-1,Emory-Train
+A15-101,E15-101_23_tau.svs,PHF-1,Emory-Train
+A15-101,E15-101_2_tau.svs,PHF-1,Emory-Train
+A15-101,E15-101_1_tau.svs,PHF-1,Emory-Train
+A15-106,E15-106_6_tau.svs,PHF-1,Emory-Train
+A15-106,E15-106_1_tau.svs,PHF-1,Emory-Train
+A15-106,E15-106_2_tau.svs,PHF-1,Emory-Train
+A15-106,E15-106_4_tau.svs,PHF-1,Emory-Train
+A15-132,E15-132_2_tau.svs,PHF-1,Emory-Train
+A15-132,E15-132_1_tau.svs,PHF-1,Emory-Train
+A15-132,E15-132_6_tau.svs,PHF-1,Emory-Train
+A15-132,E15-132_4_tau.svs,PHF-1,Emory-Train
+A15-140,E15-140_6_tau.svs,PHF-1,Emory-Train
+A15-140,E15-140_4_tau.svs,PHF-1,Emory-Train
+A15-140,E15-140_1_tau.svs,PHF-1,Emory-Train
+A15-140,E15-140_2_tau.svs,PHF-1,Emory-Train
+A15-65,E15-65_06_TAU.svs,PHF-1,Emory-Train
+A15-65,E15-65_04_TAU.svs,PHF-1,Emory-Train
+A15-65,E15-65_01_TAU.svs,PHF-1,Emory-Train
+A15-65,E15-65_02_TAU.svs,PHF-1,Emory-Train
+A15-92,E15-92_2_PHF-1.svs,PHF-1,Emory-Train
+A15-92,E15-92_4T_PHF-1.svs,PHF-1,Emory-Train
+A15-92,E15-92_6O_PHF-1.svs,PHF-1,Emory-Train
+A15-92,E15-92_1_PHF-1.svs,PHF-1,Emory-Train
+A15-97,E15-97_1_tau.svs,PHF-1,Emory-Train
+A15-97,A15-97_6_tau.svs,PHF-1,Emory-Train
+A15-97,A15-97_2_tau.svs,PHF-1,Emory-Train
+A15-97,A15-97_4_tau.svs,PHF-1,Emory-Train
+A16-11,E16-11_2_tau.svs,PHF-1,Emory-Train
+A16-11,E16-11_6_tau.svs,PHF-1,Emory-Train
+A16-11,E16-11_1_tau.svs,PHF-1,Emory-Train
+A16-11,E16-11_4_tau.svs,PHF-1,Emory-Train
+A16-110,E16-110_4_tau.svs,CP13,Emory-Train
+A16-110,E16-110_1_tau.svs,CP13,Emory-Train
+A16-110,E16-110_2_tau.svs,CP13,Emory-Train
+A16-110,E16-110_6_tau.svs,CP13,Emory-Train
+A16-138,A16-138_6_tau.svs,PHF-1,Emory-Train
+A16-138,A16-138_4_tau.svs,PHF-1,Emory-Train
+A16-138,A16-138_1_tau.svs,PHF-1,Emory-Train
+A16-138,A16-138_2_tau.svs,PHF-1,Emory-Train
+A16-19,E16-19_1_tau.svs,PHF-1,Emory-Train
+A16-19,E16-19_4_tau.svs,PHF-1,Emory-Train
+A16-19,E16-19_2_tau.svs,PHF-1,Emory-Train
+A16-19,E16-19_6_tau.svs,PHF-1,Emory-Train
+A16-21,E16-21_4_tau.svs,PHF-1,Emory-Train
+A16-21,E16-21_22_tau.svs,PHF-1,Emory-Train
+A16-21,E16-21_2_tau.svs,PHF-1,Emory-Train
+A16-21,E16-21_6_tau.svs,PHF-1,Emory-Train
+A16-21,E16-21_1_tau.svs,PHF-1,Emory-Train
+A16-45,E16-45_2_tau.svs,PHF-1,Emory-Train
+A16-45,E16-45_1_tau.svs,PHF-1,Emory-Train
+A16-45,E16-45_4_tau.svs,PHF-1,Emory-Train
+A16-45,E16-45_6_tau.svs,PHF-1,Emory-Train
+A16-66,A16-66_1_tau.svs,PHF-1,Emory-Train
+A16-66,A16-66_6_tau.svs,PHF-1,Emory-Train
+A16-66,A16-66_2_tau.svs,PHF-1,Emory-Train
+A16-66,A16-66_4_tau.svs,PHF-1,Emory-Train
+A17-05,E17-5_2_tau.svs,CP13,Emory-Train
+A17-05,E17-5_6_tau.svs,CP13,Emory-Train
+A17-05,E17-5_1_tau.svs,CP13,Emory-Train
+A17-05,E17-5_4_tau.svs,CP13,Emory-Train
+A17-12,E17-12_2_tau.svs,PHF-1,Emory-Train
+A17-12,E17-12_1_tau.svs,PHF-1,Emory-Train
+A17-12,E17-12_4_tau.svs,PHF-1,Emory-Train
+A17-12,E17-12_6_tau.svs,PHF-1,Emory-Train
+A17-138,E17-138_6_TAU.svs,PHF-1,Emory-Train
+A17-138,E17-138_4_TAU.svs,PHF-1,Emory-Train
+A17-138,E17-138_2_TAU.svs,PHF-1,Emory-Train
+A17-138,E17-138_1_TAU.svs,PHF-1,Emory-Train
+A17-143,E17-143_2_tau.svs,PHF-1,Emory-Train
+A17-143,E17-143_4_tau.svs,PHF-1,Emory-Train
+A17-143,E17-143_1_tau.svs,PHF-1,Emory-Train
+A17-143,E17-143_6_tau.svs,PHF-1,Emory-Train
+A17-147,E17-147_4_tau.svs,PHF-1,Emory-Train
+A17-147,E17-147_6_tau.svs,PHF-1,Emory-Train
+A17-147,E17-147_1_tau.svs,PHF-1,Emory-Train
+A17-147,E17-147_2_tau.svs,PHF-1,Emory-Train
+A17-21,E17-21_4_tau.svs,PHF-1,Emory-Train
+A17-21,E17-21_6_tau.svs,PHF-1,Emory-Train
+A17-21,E17-21_2_tau.svs,PHF-1,Emory-Train
+A17-21,E17-21_1_tau.svs,PHF-1,Emory-Train
+A17-32,E17-32_6_tau.svs,PHF-1,Emory-Train
+A17-32,E17-32_2_tau.svs,PHF-1,Emory-Train
+A17-32,E17-32_1_tau.svs,PHF-1,Emory-Train
+A17-32,E17-32_4_tau.svs,PHF-1,Emory-Train
+A17-36,E17-36_4_tau.svs,PHF-1,Emory-Train
+A17-36,E17-36_2_tau.svs,PHF-1,Emory-Train
+A17-36,E17-36_1_tau.svs,PHF-1,Emory-Train
+A17-36,E17-36_6_tau.svs,PHF-1,Emory-Train
+A17-40,A17-40_4_tau.svs,PHF-1,Emory-Train
+A17-40,A17-40_6_tau.svs,PHF-1,Emory-Train
+A17-40,A17-40_2_tau.svs,PHF-1,Emory-Train
+A17-40,A17-40_1_tau.svs,PHF-1,Emory-Train
+A17-47,A17-47_4_tau.svs,PHF-1,Emory-Train
+A17-47,A17-47_1_tau.svs,PHF-1,Emory-Train
+A17-47,A17-47_2_tau.svs,PHF-1,Emory-Train
+A17-47,A17-47_6_tau.svs,PHF-1,Emory-Train
+A17-56,E17-56_1_TAU.svs,PHF-1,Emory-Train
+A17-56,E17-56_2_TAU.svs,PHF-1,Emory-Train
+A17-56,E17-56_4_TAU.svs,PHF-1,Emory-Train
+A17-56,E17-56_6_TAU.svs,PHF-1,Emory-Train
+A17-57,E17-57_4_tau.svs,PHF-1,Emory-Train
+A17-57,E17-57_6_tau.svs,PHF-1,Emory-Train
+A17-57,E17-57_2_tau.svs,PHF-1,Emory-Train
+A17-57,E17-57_1_tau.svs,PHF-1,Emory-Train
+A17-71,E17-71_2_tau.svs,PHF-1,Emory-Train
+A17-71,E17-71_4_tau.svs,PHF-1,Emory-Train
+A17-71,E17-71_6_tau.svs,PHF-1,Emory-Train
+A17-71,E17-71_1_tau.svs,PHF-1,Emory-Train
+A18-07,E18-7_4_tau.svs,PHF-1,Emory-Train
+A18-07,E18-7_6_tau.svs,PHF-1,Emory-Train
+A18-07,E18-7_2_tau.svs,PHF-1,Emory-Train
+A18-07,E18-7_1_tau.svs,PHF-1,Emory-Train
+A18-38,E18-38_2_TAU.svs,PHF-1,Emory-Train
+A18-38,E18-38_1_TAU.svs,PHF-1,Emory-Train
+A18-38,E18-38_4_TAU.svs,PHF-1,Emory-Train
+A18-38,E18-38_6_TAU.svs,PHF-1,Emory-Train
+A18-47,E18-47_6_tau.svs,PHF-1,Emory-Train
+A18-47,E18-47_4_tau.svs,PHF-1,Emory-Train
+A18-47,E18-47_2_tau.svs,PHF-1,Emory-Train
+A18-47,E18-47_1_tau.svs,PHF-1,Emory-Train
+A18-61,E18-61_1_tau.svs,CP13,Emory-Train
+A18-61,E18-61_2_tau.svs,CP13,Emory-Train
+A18-61,E18-61_4_tau.svs,CP13,Emory-Train
+A18-61,E18-61_6_tau.svs,CP13,Emory-Train
+A20-11,E20-11_4 Tau.svs,PHF-1,Emory-Train
+A20-11,E20-11_6 Tau.svs,PHF-1,Emory-Train
+A20-11,E20-11_1 Tau.svs,PHF-1,Emory-Train
+A20-11,E20-11_2 Tau.svs,PHF-1,Emory-Train
+A20-13,E20-13_2_TAU.svs,PHF-1,Emory-Train
+A20-13,E20-13_1_TAU.svs,PHF-1,Emory-Train
+A20-13,E20-13_6_TAU.svs,PHF-1,Emory-Train
+A20-13,E20-13_4_TAU.svs,PHF-1,Emory-Train
+A20-17,E20-17_1_TAU.svs,PHF-1,Emory-Train
+A20-17,E20-17_6_TAU.svs,PHF-1,Emory-Train
+A20-17,E20-17_4_TAU.svs,PHF-1,Emory-Train
+A20-17,E20-17_2_TAU.svs,PHF-1,Emory-Train
+E04-49,E04-49_1F_TAU.svs,Accurate,Emory-Holdout
+E04-49,E04-49_1B_TAU.svs,Accurate,Emory-Holdout
+E04-49,E04-49_1D_TAU.svs,Accurate,Emory-Holdout
+E04-49,E04-49_1A_TAU.svs,Accurate,Emory-Holdout
+E05-04,E05-04_1A_TAU.svs,Accurate,Emory-Holdout
+E05-04,E05-04_1B_TAU.svs,Accurate,Emory-Holdout
+E05-04,E05-04_1D_TAU.svs,Accurate,Emory-Holdout
+E05-04,E05-04_1F_TAU.svs,Accurate,Emory-Holdout
+E05-132,E05-132_1D_TAU.svs,Accurate,Emory-Holdout
+E05-132,E05-132_1B_TAU.svs,Accurate,Emory-Holdout
+E05-132,E05-132_1A_TAU.svs,Accurate,Emory-Holdout
+E05-132,E05-132_1F_TAU.svs,Accurate,Emory-Holdout
+E05-74,E05-74_2A_TAU.svs,Accurate,Emory-Holdout
+E05-74,E05-74_2B_TAU.svs,Accurate,Emory-Holdout
+E05-74,E05-74_2D_TAU.svs,Accurate,Emory-Holdout
+E05-74,E05-74_2F_TAU.svs,Accurate,Emory-Holdout
+E05-81,E05-81_1A_TAU.svs,Accurate,Emory-Holdout
+E05-81,E05-81_1B_TAU.svs,Accurate,Emory-Holdout
+E05-81,E05-81_1D_TAU.svs,Accurate,Emory-Holdout
+E05-81,E05-81_1F_TAU.svs,Accurate,Emory-Holdout
+E08-145,E08-145_2F_TAU.svs,Accurate,Emory-Holdout
+E08-145,E08-145_2D_TAU.svs,Accurate,Emory-Holdout
+E08-145,E08-145_2A_TAU.svs,Accurate,Emory-Holdout
+E08-145,E08-145_2B_TAU.svs,Accurate,Emory-Holdout
+E09-91,E09-91_1A_AT8.ndpi,AT8,Emory-Holdout
+E09-91,E09-91_1D_AT8.ndpi,AT8,Emory-Holdout
+E09-91,E09-91_1F_tau.ndpi,AT8,Emory-Holdout
+E09-91,E09-91_1B_AT8.ndpi,AT8,Emory-Holdout
+E10-110,E10-110_1B_AT8.ndpi,AT8,Emory-Holdout
+E10-110,E10-110_1D_AT8.ndpi,AT8,Emory-Holdout
+E10-110,E10-110_1F_AT8.ndpi,AT8,Emory-Holdout
+E10-110,E10-110_1A_AT8.ndpi,AT8,Emory-Holdout
+E10-129,E10-129_1A_AT8.ndpi,AT8,Emory-Holdout
+E10-129,E10-129_1B_AT8.ndpi,AT8,Emory-Holdout
+E10-129,E10-129_1F_AT8.ndpi,AT8,Emory-Holdout
+E10-129,E10-129_1D_AT8-drop.ndpi,AT8,Emory-Holdout
+E10-137,E10-137_1D_AT8-drop.ndpi,AT8,Emory-Holdout
+E10-137,E10-137_1A_AT8.ndpi,AT8,Emory-Holdout
+E10-137,E10-137_1F_AT8.ndpi,AT8,Emory-Holdout
+E10-137,E10-137_1B_AT8-drop.ndpi,AT8,Emory-Holdout
+E10-150,E10-150_1A_AT8.ndpi,AT8,Emory-Holdout
+E10-150,E10-150_1B_AT8.ndpi,AT8,Emory-Holdout
+E10-150,E10-150_1D_AT8.ndpi,AT8,Emory-Holdout
+E10-150,E10-150_1F_AT8.ndpi,AT8,Emory-Holdout
+E10-48,E10-48_1B_tau.ndpi,Accurate,Emory-Holdout
+E10-48,E10-48_1A_tau.ndpi,Accurate,Emory-Holdout
+E10-48,E10-48_1F_tau.ndpi,Accurate,Emory-Holdout
+E10-48,E10-48_1D_tau.ndpi,Accurate,Emory-Holdout
+E10-56,E10-56_1F_tau.ndpi,Accurate,Emory-Holdout
+E10-56,E10-56_1B_tau.ndpi,Accurate,Emory-Holdout
+E10-56,E10-56_1A_tau.ndpi,Accurate,Emory-Holdout
+E10-56,E10-56_1D_tau.ndpi,Accurate,Emory-Holdout
+E10-63,E10-63_1B_tau.ndpi,Accurate,Emory-Holdout
+E10-63,E10-63_1F_tau.ndpi,Accurate,Emory-Holdout
+E10-63,E10-63_1D_tau.ndpi,Accurate,Emory-Holdout
+E10-63,E10-63_1A_tau.ndpi,Accurate,Emory-Holdout
+E11-20,E11-20_1D_tau-4T8.ndpi,AT8,Emory-Holdout
+E11-20,E11-20_1F_tau-4T8.ndpi,AT8,Emory-Holdout
+E11-20,E11-20_1B_tau-4T8.ndpi,AT8,Emory-Holdout
+E11-20,E11-20_1A_tau_4T8.ndpi,AT8,Emory-Holdout
+E11-59,E11-59_1F_tau.ndpi,AT8,Emory-Holdout
+E11-59,E11-59_1D_tau.ndpi,AT8,Emory-Holdout
+E11-59,E11-59_1B_tau.ndpi,AT8,Emory-Holdout
+E11-59,E11-59_1A_tau.ndpi,AT8,Emory-Holdout
+E15-125,E15-125_1_tau.svs,PHF-1,Emory-Holdout
+E15-125,E15-125_6_tau-001.svs,PHF-1,Emory-Holdout
+E15-125,E15-125_2_tau.svs,PHF-1,Emory-Holdout
+E15-125,E15-125_4_tau.svs,PHF-1,Emory-Holdout
+E16-114,E16-114_6_tau.svs,PHF-1,Emory-Holdout
+E16-114,E16-114_1_tau.svs,PHF-1,Emory-Holdout
+E16-114,E16-114_4_tau.svs,PHF-1,Emory-Holdout
+E16-114,E16-114_2_tau.svs,PHF-1,Emory-Holdout
+E16-123,E16-123_6_tau.svs,PHF-1,Emory-Holdout
+E16-123,E16-123_2_tau.svs,PHF-1,Emory-Holdout
+E16-123,E16-123_1_tau.svs,PHF-1,Emory-Holdout
+E16-123,E16-123_4_tau.svs,PHF-1,Emory-Holdout
+E16-16,E16-16_4_tau.svs,PHF-1,Emory-Holdout
+E16-16,E16-16_1_tau.svs,PHF-1,Emory-Holdout
+E16-16,E16-16_6_tau.svs,PHF-1,Emory-Holdout
+E16-16,E16-16_2_tau.svs,PHF-1,Emory-Holdout
+E17-150,E17-150_2_TAU.svs,PHF-1,Emory-Holdout
+E17-150,E17-150_4_TAU.svs,PHF-1,Emory-Holdout
+E17-150,E17-150_6_TAU.svs,PHF-1,Emory-Holdout
+E17-150,E17-150_1_TAU.svs,PHF-1,Emory-Holdout
+E17-39,E17-39_2_tau.svs,PHF-1,Emory-Holdout
+E17-39,E17-39_1_tau.svs,PHF-1,Emory-Holdout
+E17-39,E17-39_6_tau.svs,PHF-1,Emory-Holdout
+E17-39,E17-39_4_tau.svs,PHF-1,Emory-Holdout
+E17-54,E17-54_1_tau.svs,PHF-1,Emory-Holdout
+E17-54,E17-54_4_tau.svs,PHF-1,Emory-Holdout
+E17-54,E17-54_6_tau.svs,PHF-1,Emory-Holdout
+E17-54,E17-54_2_tau.svs,PHF-1,Emory-Holdout
+E18-27,E18-27_1_TAU.svs,PHF-1,Emory-Holdout
+E18-27,E18-27_2_TAU.svs,PHF-1,Emory-Holdout
+E18-27,E18-27_4_TAU.svs,PHF-1,Emory-Holdout
+E18-27,E18-27_6_TAU.svs,PHF-1,Emory-Holdout
+E18-37,E18-37_6_TAU.svs,PHF-1,Emory-Holdout
+E18-37,E18-37_4_TAU.svs,PHF-1,Emory-Holdout
+E18-37,E18-37_2_TAU.svs,PHF-1,Emory-Holdout
+E18-37,E18-37_1_TAU.svs,PHF-1,Emory-Holdout
+E18-45,E18-45_2_TAU.svs,PHF-1,Emory-Holdout
+E18-45,E18-45_1_TAU.svs,PHF-1,Emory-Holdout
+E18-45,E18-45_6_TAU.svs,PHF-1,Emory-Holdout
+E18-45,E18-45_4_TAU.svs,PHF-1,Emory-Holdout
+E18-49,E18-49_4_TAU.svs,PHF-1,Emory-Holdout
+E18-49,E18-49_1_TAU.svs,PHF-1,Emory-Holdout
+E18-49,E18-49_6_TAU.svs,PHF-1,Emory-Holdout
+E18-49,E18-49_2_TAU.svs,PHF-1,Emory-Holdout
+E18-70,E18-70_2 Tau.svs,PHF-1,Emory-Holdout
+E18-70,E18-70_1 Tau.svs,PHF-1,Emory-Holdout
+E18-70,E18-70_6 Tau.svs,PHF-1,Emory-Holdout
+E18-70,E18-70_4 Tau.svs,PHF-1,Emory-Holdout
+E18-92,E18-92_4_TAU.svs,PHF-1,Emory-Holdout
+E18-92,E18-92_1_TAU.svs,PHF-1,Emory-Holdout
+E18-92,E18-92_2_TAU.svs,PHF-1,Emory-Holdout
+E18-92,E18-92_6_TAU.svs,PHF-1,Emory-Holdout
+E19-131,E19-131_4 Tau.svs,PHF-1,Emory-Holdout
+E19-131,E19-131_6 Tau.svs,PHF-1,Emory-Holdout
+E19-131,E19-131_1 Tau.svs,PHF-1,Emory-Holdout
+E19-131,E19-131_2 Tau.svs,PHF-1,Emory-Holdout
+E19-132,E19-132_6 Tau.svs,PHF-1,Emory-Holdout
+E19-132,E19-132_1 Tau.svs,PHF-1,Emory-Holdout
+E19-132,E19-132_2 Tau.svs,PHF-1,Emory-Holdout
+E19-132,E19-132_4 Tau.svs,PHF-1,Emory-Holdout
+E19-139,E19-139_4_tau.svs,PHF-1,Emory-Holdout
+E19-139,E19-139_6_tau.svs,PHF-1,Emory-Holdout
+E19-139,E19-139_1_tau.svs,PHF-1,Emory-Holdout
+E19-139,E19-139_2_tau.svs,PHF-1,Emory-Holdout
+E19-141,E19-141_2_tau.svs,PHF-1,Emory-Holdout
+E19-141,E19-141_6_tau.svs,PHF-1,Emory-Holdout
+E19-141,E19-141_4_tau.svs,PHF-1,Emory-Holdout
+E19-141,E19-141_1_tau.svs,PHF-1,Emory-Holdout
+E19-142,E19-142_6_tau.svs,PHF-1,Emory-Holdout
+E19-142,E19-142_1_tau.svs,PHF-1,Emory-Holdout
+E19-142,E19-142_2_tau.svs,PHF-1,Emory-Holdout
+E19-142,E19-142_4_tau.svs,PHF-1,Emory-Holdout
+E19-35,E19-35_2_TAU.svs,PHF-1,Emory-Holdout
+E19-35,E19-35_4_TAU.svs,PHF-1,Emory-Holdout
+E19-35,E19-35_1_TAU.svs,PHF-1,Emory-Holdout
+E19-35,E19-35_6_TAU.svs,PHF-1,Emory-Holdout
+E19-70,E19-70_6_TAU.svs,PHF-1,Emory-Holdout
+E19-70,E19-70_2_TAU.svs,PHF-1,Emory-Holdout
+E19-70,E19-70_4_TAU.svs,PHF-1,Emory-Holdout
+E19-70,E19-70_1_TAU.svs,PHF-1,Emory-Holdout
+E20-106,E20-106_4 Tau.svs,PHF-1,Emory-Holdout
+E20-106,E20-106_6 Tau.svs,PHF-1,Emory-Holdout
+E20-106,E20-106_2 Tau.svs,PHF-1,Emory-Holdout
+E20-106,E20-106_1 Tau.svs,PHF-1,Emory-Holdout
+E20-126,E20-126_2 Tau.svs,PHF-1,Emory-Holdout
+E20-126,E20-126_4 Tau.svs,PHF-1,Emory-Holdout
+E20-126,E20-126_6 Tau.svs,PHF-1,Emory-Holdout
+E20-126,E20-126_1 Tau.svs,PHF-1,Emory-Holdout
+E20-127,E20-127_4 Tau.svs,PHF-1,Emory-Holdout
+E20-127,E20-127_2 Tau.svs,PHF-1,Emory-Holdout
+E20-127,E20-127_1 Tau.svs,PHF-1,Emory-Holdout
+E20-127,E20-127_6 Tau.svs,PHF-1,Emory-Holdout
+E20-138,E20-138_4_TAU.svs,PHF-1,Emory-Holdout
+E20-138,E20-138_1_TAU.svs,PHF-1,Emory-Holdout
+E20-138,E20-138_2_TAU.svs,PHF-1,Emory-Holdout
+E20-138,E20-138_6_TAU.svs,PHF-1,Emory-Holdout
+E20-139,E20-139_4_TAU.svs,PHF-1,Emory-Holdout
+E20-139,E20-139_1_TAU.svs,PHF-1,Emory-Holdout
+E20-139,E20-139_2_TAU.svs,PHF-1,Emory-Holdout
+E20-139,E20-139_6_TAU.svs,PHF-1,Emory-Holdout
+E20-174,A20-174_2_TAU.svs,PHF-1,Emory-Holdout
+E20-174,A20-174_1_TAU.svs,PHF-1,Emory-Holdout
+E20-174,A20-174_6_TAU.svs,PHF-1,Emory-Holdout
+E20-174,A20-174_4_TAU.svs,PHF-1,Emory-Holdout
+E20-175,A20-175_4_TAU.svs,PHF-1,Emory-Holdout
+E20-175,A20-175_1_TAU.svs,PHF-1,Emory-Holdout
+E20-175,A20-175_2_TAU.svs,PHF-1,Emory-Holdout
+E20-175,A20-175_6_TAU.svs,PHF-1,Emory-Holdout
+E20-18,E20-18_6_TAU.svs,PHF-1,Emory-Holdout
+E20-18,E20-18_4_TAU.svs,PHF-1,Emory-Holdout
+E20-18,E20-18_2_TAU.svs,PHF-1,Emory-Holdout
+E20-18,E20-18_1_TAU.svs,PHF-1,Emory-Holdout
+E20-55,E20-55_1 TAU.svs,PHF-1,Emory-Holdout
+E20-55,E20-55_2 TAU.svs,PHF-1,Emory-Holdout
+E20-55,E20-55_6 TAU.svs,PHF-1,Emory-Holdout
+E20-55,E20-55_4 TAU.svs,PHF-1,Emory-Holdout
+E20-56,E20-56_2 TAU.svs,PHF-1,Emory-Holdout
+E20-56,E20-56_6 TAU.svs,PHF-1,Emory-Holdout
+E20-56,E20-56_1 TAU.svs,PHF-1,Emory-Holdout
+E20-56,E20-56_4 TAU.svs,PHF-1,Emory-Holdout
+E20-63,E20-63_6 TAU.svs,PHF-1,Emory-Holdout
+E20-63,E20-63_4 TAU.svs,PHF-1,Emory-Holdout
+E20-63,E20-63_1 TAU.svs,PHF-1,Emory-Holdout
+E20-63,E20-63_2 TAU.svs,PHF-1,Emory-Holdout
+E20-69,E20-69_2_TAU.svs,PHF-1,Emory-Holdout
+E20-69,E20-69_4_TAU.svs,PHF-1,Emory-Holdout
+E20-69,E20-69_6_TAU.svs,PHF-1,Emory-Holdout
+E20-69,E20-69_1_TAU.svs,PHF-1,Emory-Holdout
+E20-71,E20-71_1 TAU.svs,PHF-1,Emory-Holdout
+E20-71,E20-71_2 TAU.svs,PHF-1,Emory-Holdout
+E20-71,E20-71_4 TAU.svs,PHF-1,Emory-Holdout
+E20-71,E20-71_6 TAU.svs,PHF-1,Emory-Holdout
+E20-72,E20-72_1 TAU.svs,PHF-1,Emory-Holdout
+E20-72,E20-72_4 TAU.svs,PHF-1,Emory-Holdout
+E20-72,E20-72_2 TAU.svs,PHF-1,Emory-Holdout
+E20-72,E20-72_6 TAU.svs,PHF-1,Emory-Holdout
+E20-73,E20-73_6 TAU.svs,PHF-1,Emory-Holdout
+E20-73,E20-73_4 TAU.svs,PHF-1,Emory-Holdout
+E20-73,E20-73_2 TAU.svs,PHF-1,Emory-Holdout
+E20-73,E20-73_1 TAU.svs,PHF-1,Emory-Holdout
+E20-98,E20-98_6 TAU.svs,PHF-1,Emory-Holdout
+E20-98,E20-98_4 TAU.svs,PHF-1,Emory-Holdout
+E20-98,E20-98_2 TAU.svs,PHF-1,Emory-Holdout
+E20-98,E20-98_1 TAU.svs,PHF-1,Emory-Holdout
+E21-110,E21-110_TAU_2.svs,PHF-1,Emory-Holdout
+E21-110,E21-110_TAU_6.svs,PHF-1,Emory-Holdout
+E21-110,E21-110_TAU_1.svs,PHF-1,Emory-Holdout
+E21-110,E21-110_TAU_4.svs,PHF-1,Emory-Holdout
+E21-115,E21-115_TAU_1.svs,PHF-1,Emory-Holdout
+E21-115,E21-115_TAU_2.svs,PHF-1,Emory-Holdout
+E21-115,E21-115_TAU_4.svs,PHF-1,Emory-Holdout
+E21-115,E21-115_TAU_6.svs,PHF-1,Emory-Holdout
+E21-17,A21-17_4_TAU.svs,PHF-1,Emory-Holdout
+E21-17,A21-17_2_TAU.svs,PHF-1,Emory-Holdout
+E21-17,A21-17_1_TAU.svs,PHF-1,Emory-Holdout
+E21-17,A21-17_6_TAU.svs,PHF-1,Emory-Holdout
+E21-24,A21-24_2_TAU.svs,PHF-1,Emory-Holdout
+E21-24,A21-24_4_TAU.svs,PHF-1,Emory-Holdout
+E21-24,A21-24_1_TAU.svs,PHF-1,Emory-Holdout
+E21-24,A21-24_6_TAU.svs,PHF-1,Emory-Holdout
+E21-29,A21-29_1_TAU.svs,PHF-1,Emory-Holdout
+E21-29,A21-29_4_TAU.svs,PHF-1,Emory-Holdout
+E21-29,A21-29_6_TAU.svs,PHF-1,Emory-Holdout
+E21-29,A21-29_2_TAU.svs,PHF-1,Emory-Holdout
+E21-84,A21-84_TAU_1.svs,PHF-1,Emory-Holdout
+E21-84,A21-84_TAU_4.svs,PHF-1,Emory-Holdout
+E21-84,A21-84_TAU_2.svs,PHF-1,Emory-Holdout
+E21-84,A21-84_TAU_6.svs,PHF-1,Emory-Holdout
+E21-99,E21-99_TAU_6.svs,PHF-1,Emory-Holdout
+E21-99,E21-99_TAU_4.svs,PHF-1,Emory-Holdout
+E21-99,E21-99_TAU_22.svs,PHF-1,Emory-Holdout
+E21-99,E21-99_TAU_2.svs,PHF-1,Emory-Holdout
+E21-99,E21-99_TAU_1.svs,PHF-1,Emory-Holdout

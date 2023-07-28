@@ -1,0 +1,34 @@
+# Configuration variables.
+datadir: /workspace/data  # MUST BE ABSOLUTE PATH
+yolodir: /workspace/yolo  # MUST BE ABSOLUTE PATH
+codedir: /workspace/code  # MUST BE ABSOLUTE PATH
+wsidir: /workspace/wsis  # MUST BE ABSOLUTE PATH
+
+# DSA variables.
+dsaURL: https://computablebrain.emory.edu/
+collection: NFT-AI-Project
+parentFolder: Inference-Cohort-1
+externalCohortFolder: External-Cohort
+annotationFolder: Annotated-Cohort
+inferenceCohort: Inference-Cohort-2
+
+# for security issues, keep password equal to null
+user: null
+password: null
+    
+# Visual Parameters.
+colors:
+    - "1E88E5"
+    - "D81B60"
+    - "FFC107"
+    - "004D40"
+    - "EF6FFD"
+    - "6B1DE7"
+
+hatches:
+    - '.'
+    - 'O'
+    - '/'
+    - '-'
+    - 'X'
+    - '+'
