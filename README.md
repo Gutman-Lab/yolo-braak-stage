@@ -1,20 +1,18 @@
 # YOLO Braak Stage
+[Manuscript is currently in submission] [[Data](https://drive.google.com/drive/folders/16LUMrIMdp4LlvWQk5Dp3eVQHWY472jN5?usp=sharing)]
 
 Codebase accompanying the project for detection NFTs in WSIs and prediction of Braak stages in neuropathology cases.
-
-This project is in the process of being published. When the publication is available it will found in this URL:
-
-This project made use of various hundreds of WSIs, hosted in an instance of the Digital Slide Archive (DSA). We did not make these WSIs readily available but made the annotated images, used to train and evaluate machine learning (ML) models, availble for download.
 
 We provide the original scripts and Jupyter notebooks used in the project to generate all the results and data.
 
 ## Data availability
+This project utilized hundreds of WSIs, hosted in an instance of the Digital Slide Archive (DSA). We did not make these WSIs readily available but made the annotated images, used to train and evaluate machine learning (ML) models, availble for download.
 
-We provide various data for use in recreating the results / analysis and for others to train their own models. All data can be accessed using the following [link](https://drive.google.com/drive/folders/16LUMrIMdp4LlvWQk5Dp3eVQHWY472jN5?usp=sharing). In all there is close to 200GB of data but not all is needed to download, and we break the data into different zip files for download. Only download what you need. 
+We provide the final data directories used during this project as well as a simplified zip file ("ROIS.zip") containing all the ROIs with out best set of labels, created from model-assisted-labeling workflow. While some of the scripts may run, any of the scripts that require integration with the DSA will not. We do not recommend running these scripts but instead taking a look a the tutorial notebooks.
 
-For obtaining all the region of interests (ROIs) images with best labels you should simply download the "ROIs.zip" file and extract. 
+**ROIs.zip** contains the all the ROIs, including our test dataset, with the best set of labels. 
 
-Additional zip files contain data created throughout the project and is only needed for inspection of results.:
+Additional zip files contain data created throughout the project and is only needed for inspection:
 * models.zip: contains all the models trained
    - expert and novice named models are models trained on human labeled data from a single individual
    - models ihe model-assisted-labeling directory were all trained using the model assisted labeling (MAL) workflow on the large dataset
@@ -30,19 +28,27 @@ Additional zip files contain data created throughout the project and is only nee
 * wsi-inference.zip: Contains the WSI inference files, including low resolution binary masks of WSIs and the features extracted from NFT detection.
 
 ## Docker environment
-This project is meant to be run in our Docker image - this will allow proper recreation of the results and the code to run without errors. The main use of this is not only that the Python libraries are compatible but also the filepaths to the many files needed in this project match.
+A Docker image is provided for running our scripts and tutorial Jupyter notebooks (see README.md in tutorial folder).
 
 Docker image is: jvizcar/braak-study:latest
 
-This image should be run while mounting three directories:
-* A data directory, if you download the files they should be placed in this directory.
-* A code directory, which mounts this repository.
-* A yolo directory, clone [our fork](https://github.com/jvizcar/nft-detection-yolov5) of Ultralytic's YOLOv5 repo.
+This image contains this repo and our [fork](https://github.com/jvizcar/nft-detection-yolov5) of Ultralytics YOLOv5 [repo](https://github.com/ultralytics/yolov5).
 
-## ClearML
-The training of models in this repository **requires** the use of a [ClearML](clear.ml) account and credentials. After creating and logging into your ClearML account, go to settings -> workspace -> and create new credentials. Copy the text shown to a save location.
+When running the Docker image follow this command and make sure to mount your data directory (you should put extracted data zip files in this location).
 
-Once in the Docker terminal, initiate ClearML using ```$ clearml-init``` and paste the credentials you copied.
+```
+$ docker run -it --rm --ipc=host --net=host --gpus all -v "your data directory":/workspace/data jvizcar/braak-study:latest
+```
+
+\*Note: make the data directory open to read & write access, do this before mounting. One way to do this in Linux terminal is shown below (example taken from [here](https://stackoverflow.com/questions/1580596/how-do-i-make-git-ignore-file-mode-chmod-changes))
+```
+cd "data directory"
+find . -type d -exec chmod a+rwx {} \; # Make folders traversable and read/write
+find . -type f -exec chmod a+rw {} \;  # Make files read/write 
+```
+
+# Tutorials
+We provide Jupyter notebook tutorials for tiling ROI(s), created dataset required files for training YOLOv5 models, training models, and inferencing on ROIs and WSIs. See README.md in the tutorial folder.
 
 # Project scripts
 The sctipts are numbered based on which part of the project they belong to, we include this for inspection but will not be runnable because of the need to access to the WSIs, which must be hosted in the DSA to work. 
