@@ -1,1 +1,4 @@
 env/
+.temp/
+*.pyc
+.ipynb_checkpoints/
